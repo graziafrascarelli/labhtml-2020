@@ -1,0 +1,25 @@
+body {
+    background-image: url(../assets/background.png);
+}
+
+main {
+    background-color: #FBF1E8;
+}
+
+.title {
+    color: #495cb0;
+    text-transform: uppercase;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.color-yellow {
+    color: #FAC55A;
+}
+
+.color-orange {
+    color: #F78470;
+}
+
