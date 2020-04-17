@@ -23,12 +23,12 @@ Come secondo passo di questo progetto cercare di modificare alcuni degli element
 - Ogni messaggio di "commit" deve essere una sintesi brevissima delle modifiche effettuate
 
 ## Strumenti e link utili
-## Software
+### Software
 - [GitHub Desktop](https://desktop.github.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Chrome Browser](https://www.google.com/chrome/)
 - [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/)
-## Documentazione
+### Documentazione
 - [MDN (Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 - [HTML ultima versione dello standard](https://html.spec.whatwg.org/)
 - [W3C](https://www.w3.org/)
