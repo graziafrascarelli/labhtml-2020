@@ -3,13 +3,13 @@ body {
 }
 
 main {
-    background-color: #FBF1E8;
+    background-color: #FBf1E8;
     padding: 10px 20px 10px 20px;
     margin: 30px;
 }
 
 .title {
-    color: #495cb0;
+    color: #495CB0;
     text-transform: uppercase;
 }
 
@@ -22,5 +22,5 @@ main {
 }
 
 .color-orange {
-    color: #F78470;
+    color:#F78470;
 }

@@ -1,9 +1,8 @@
 body {
     background-image: url(../assets/background.png);
 }
-
 main {
-    background-color: #FBF1E8;
+    background-color: #fbf1e8;
     padding: 10px 20px 10px 20px;
     margin: 30px;
 }
@@ -18,9 +17,9 @@ main {
 }
 
 .color-yellow {
-    color: #FAC55A;
+    color: #fac55a;
 }
 
 .color-orange {
-    color: #F78470;
+    color:#f78470;
 }
